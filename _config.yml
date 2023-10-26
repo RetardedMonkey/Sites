@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: CDC Test
 description: This is a very short description of this sites purpose
+include:
+- README.md
+- Advisories.md
+- Alerts.md
