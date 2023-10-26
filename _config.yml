@@ -1,8 +1,9 @@
 remote_theme: just-the-docs/just-the-docs
 plugins:
 - jekyll-remote-theme
-title: CDC Test
+title: Cyber Defence Centre
 description: This is a very short description of this sites purpose
 include:
+- index.md
 - Advisories.md
 - Alerts.md
