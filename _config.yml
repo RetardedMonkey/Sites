@@ -14,7 +14,7 @@ navbar-links:
   Google: "https://www.google.com"
 
 avatar: "https://www.qldmentalhealthweek.org.au/wp-content/uploads/2022/06/Queensland-Government-logo.png"
-round-avatar: true
+round-avatar: false
 
 social-network-links:
   email: "someone@example.com"
