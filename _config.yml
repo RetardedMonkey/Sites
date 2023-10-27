@@ -23,8 +23,8 @@ social-network-links:
   youtube: c/daattali
 
 
-navbar-col: "#800000"
-navbar-text-col: "#800000"
+navbar-col: "#EAEAEA"
+navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
