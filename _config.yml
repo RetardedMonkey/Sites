@@ -2,7 +2,7 @@ remote_theme: pages-themes/architect
 plugins:
 - jekyll-remote-theme
 title: Cyber Defence Centre
-description: This is a very short description of this sites purpose
+description: Alerts & Advisories
 include:
 - index.md
 - Advisories.md
