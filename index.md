@@ -1,5 +1,3 @@
 ---
-title: Alerts & Advisorie
+title: Alerts & Advisories
 ---
-
-## Cisco IOS XE Vulnerability (CVE-XXXX-XXXXX)
