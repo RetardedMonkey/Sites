@@ -1,12 +1,5 @@
 ---
-title: Cyber Defence Centre
-subtitle: Alerts & Advisories
+title: Alerts & Advisorie
 ---
 
 ## Cisco IOS XE Vulnerability (CVE-XXXX-XXXXX)
-
-### Executive Summary
-
-### Mitigations
-
-### Recommendations
