@@ -3,7 +3,3 @@ plugins:
 - jekyll-remote-theme
 title: Queensland Government Cyber Defence Centre
 description: Alerts & Advisories
-include:
-- index.md
-- Advisories.md
-- Alerts.md
