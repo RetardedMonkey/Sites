@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: daattali/beautiful-jekyll
 plugins:
 - jekyll-remote-theme
 title: Cyber Defence Centre
