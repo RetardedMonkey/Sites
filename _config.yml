@@ -1,7 +1,7 @@
 remote_theme: daattali/beautiful-jekyll
 plugins:
 - jekyll-remote-theme
-title: Cyber Defence Centre
+title: Queensland Government Cyber Defence Centre
 description: Alerts & Advisories
 include:
 - index.md
